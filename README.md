@@ -1,2 +1,2 @@
 # PiscineC
-Piscina Project 42
+Project made for 42 school Madrid
